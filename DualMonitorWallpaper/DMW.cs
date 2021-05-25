@@ -44,7 +44,6 @@ namespace DualMonitorWallpaper
         string wallpaperSavePath;
         #endregion
         
-        // GitHub test.
         public DMW()
         {
             InitializeComponent();
