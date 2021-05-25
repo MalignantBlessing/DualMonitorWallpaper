@@ -31,4 +31,6 @@ this project a good while ago). If anyone can find the link to this then I will 
 # Additional Notes
 I went out of my way to create the project based on .NET Framework 4.6.1 because it means that the final release is a single executable file rather than
 a whole bunch of loose files along with an executable. Not sure what relevance this has, just thought I'd mention it.  
+Also, this may conflict with some anti-virus programs and I'm not sure what can be done about that, so my apologies for any inconvenience. If anyone is
+able to provide any tips or info to help mitigate this then that would be great.  
 Again, any valid criticism is welcome and encouraged. Thank you for taking the time to read this. :)
