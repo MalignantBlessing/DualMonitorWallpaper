@@ -7,7 +7,7 @@ namespace DualMonitorWallpaper
 {
     public partial class DMW : Form
     {
-        #region SetDesktopWallpaper Library Initialization - Not My Code
+        #region SetDesktopWallpaper Library Initialization - NOT MY CODE!
         [DllImport("user32.dll", SetLastError = true)]
         [return: MarshalAs(UnmanagedType.Bool)]
         static extern bool SystemParametersInfo(uint uiAction, uint uiParam, String pvParam, uint fWinIni);
@@ -694,7 +694,7 @@ namespace DualMonitorWallpaper
         }
         #endregion
 
-        #region SetWallpaper Function - Not My Code
+        #region SetWallpaper Function - NOT MY CODE!
         // Sets the desktop wallpaper to the created wallpaper.
         private void SetWallpaper(string file_name)
         {
