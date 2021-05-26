@@ -501,7 +501,7 @@ namespace DualMonitorWallpaper
             }
         }
 
-        // Parity check to properly centre the image
+        // Parity check to properly allign the image
         bool IsOffsetEven(double num)
         {
             if (num % 2 == 0)
