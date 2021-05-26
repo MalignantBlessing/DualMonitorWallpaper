@@ -22,7 +22,7 @@ this project a good while ago). If anyone can find the link to this then I will 
 • Has a completely custom graphical interface (painstakingly) created by myself using Adobe Photoshop  
 
 # Potential Improvements
-• Better accessibility and more variety in monitor resolutions (currently limited to an aspect ration of 16:9 and only three different resolutions)  
+• Better accessibility and more variety of monitor resolutions (currently limited to an aspect ration of 16:9 and only three different resolutions)  
 • A minimize button (to be honest I'm just lazy)  
 • An indicator of some sort when the user is in Preview Mode  
 • More detailed commenting for the sake of readability and clarity  
