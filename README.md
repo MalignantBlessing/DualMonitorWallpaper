@@ -6,7 +6,7 @@ I have no issue with anyone utilizing or altering any/all code as they wish, as 
 
 This is the first project I've uploaded to GitHub and, though it is fully functional, the purpose of publishing it is so that the code
 can be critiqued and improved so that I can become better at programming.
-Any and all valid criticism is welcome and encouraged (e.g. this could be an issue because..., or that could be more efficient, etc.)  
+Any valid criticism is welcome and encouraged (e.g. this could be an issue because..., or that could be more efficient, etc.)  
 Explantions of the criticism would also be greatly appreciated as it would help develop my understanding of programming (simply stating
 'this is bad; do this instead' isn't particularly helpful).
 
