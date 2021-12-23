@@ -1,6 +1,6 @@
 # Introduction
 Hello, this program allows users to set their desktop wallpaper to be images of their choice for two monitors. It was written entirely in C#
-and was just intended for personal use to begin with.
+within Visual Studio and was just intended for personal use to begin with.
 
 I have no issue with anyone utilizing or altering any/all code as they wish, as long as you provide credit.
 
