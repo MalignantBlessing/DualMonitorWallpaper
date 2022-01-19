@@ -75,7 +75,7 @@ namespace DualMonitorWallpaper
         // This is used when the user is previewing the wallpaper
         private void DMW_KeyDown(object sender, KeyEventArgs e)
         {
-            // If it's in preview mode then this will exit it.
+            // If it's in preview mode then this will exit it
             if (e.KeyCode == Keys.Escape)
             {
                 if (previewMode)
@@ -257,7 +257,7 @@ namespace DualMonitorWallpaper
             }
         }
 
-        // Prevents user from selecting text within the textbox.
+        // Prevents user from selecting text within the textbox
         private void txtImageLocation_Enter(object sender, EventArgs e)
         {
             ActiveControl = pbBgImagePreview;
@@ -285,7 +285,7 @@ namespace DualMonitorWallpaper
             pbSettings.Image = Resources.pbSettings;
             pbExit.Image = Resources.pbExit;
 
-            // Initially setting the selected monitor to the left one.
+            // Initially setting the selected monitor to the left one
             pbBgLeftMonitor.Image = Resources.pbBorder;
             monitor = "left";
             selectedMonitorLeft = true;
